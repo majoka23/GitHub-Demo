@@ -16,6 +16,7 @@ public class GithubDemo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("My first project..");
+        System.out.println("My second project..");
     }
     
 }
